@@ -2,5 +2,5 @@
 faculty
 name
 surname
-form
-group
+form 1
+group 1
